@@ -11,3 +11,11 @@ int fungsiLuas(int p, int l)
 {
     return p * l;
 }
+int main()
+{
+    int panjang, lebar;
+    cout << "Masukan Panjang : ";
+    cin >> panjang;
+    cout << "Masukan Lebar : ";
+    cin >> lebar;
+}
