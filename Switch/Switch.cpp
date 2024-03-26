@@ -18,3 +18,10 @@ float pembagian(int a, int b)
 {
     return a / b;
 }
+void inputData()
+{
+    cout << "\nMasukan bilangan pertama: ";
+    cin >> bilangan1;
+    cout << "Masukan bilangan kedua: ";
+    cin >> bilangan2;
+}
